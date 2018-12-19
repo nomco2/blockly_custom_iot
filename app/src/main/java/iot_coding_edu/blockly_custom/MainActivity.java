@@ -21,7 +21,7 @@ import java.util.Locale;
 
 public class MainActivity extends AbstractBlocklyActivity {
     private static final String TAG = "test";
-    private static final String My_coding_toolbox_1 = " /default/My_coding_toolbox_1.xml";
+    private static final String My_coding_toolbox_1 = "default/ My_coding_toolbox_1.xml";
 
     private static final List<String> JAVASCRIPT_GENERATORS = Arrays.asList(
             // Custom block generators go here. Default blocks are already included.
